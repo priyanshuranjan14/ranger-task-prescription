@@ -1,0 +1,7 @@
+Pillow
+python-dotenv
+openai
+easyocr
+PyMuPDF
+google-cloud-vision
+torch
